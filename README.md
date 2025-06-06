@@ -188,41 +188,17 @@ Motto: "Security is not a product, but a process"
 <a href="https://www.linkedin.com/in/ihab-ait-el-caid-654750285/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="mailto:ihabaitelcaid@gmail.com">
+<a href="mailto:ihabaec@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://twitter.com/ihabaitelcaid">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
 <a href="https://discord.gg/yourdiscord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" />
 </a>
 
-### 📧 **PGP Key Available for Secure Communications**
-```
-Fingerprint: [Your PGP Fingerprint Here]
-```
 
 </div>
 
----
 
-## 💰 **Support My Cybersecurity Research**
-
-<div align="center">
-
-If you find my security tools and research valuable, consider supporting my work:
-
-<a href="https://www.buymeacoffee.com/ihabaec">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="https://ko-fi.com/ihabaec">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
-
-</div>
-
----
 
 <div align="center">
   
