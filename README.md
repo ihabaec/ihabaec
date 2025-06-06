@@ -62,10 +62,10 @@ Motto: "Security is not a product, but a process"
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,django,flask,html,css,tailwind&theme=dark" />
 
 ### ☁️ **Cloud & Security**
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,terraform,ansible&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker&theme=dark" />
 
 ### 🗄️ **Databases & Systems**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,elasticsearch,grafana,prometheus&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,elasticsearch&theme=dark" />
 
 ### 🔧 **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=linux,git,vscode,vim,figma,postman,nginx,apache&theme=dark" />
