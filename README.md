@@ -6,9 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ihab%20Ait%20El%20Caid&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🛡️%20Cybersecurity%20Architect%20|%20🔥%20Ethical%20Hacker%20|%20☁️%20Cloud%20Security%20Specialist&descSize=18&descAlignY=55&animation=fadeIn"/>
   
   <!-- Typing Animation Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Penetration+Testing+Expert;🔐+Smart+Contract+Security+Auditor;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator" alt="Typing Animation" />
-  <div align="center">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Penetration+Testing+Expert;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator;🔐+Smart+Contract+Security+Auditor" alt="Typing Animation" />
+  
+<br><br>
+<div align="center">
 ### 🐍 **Contribution Snake**
 <img src="https://github.com/ihabaec/ihabaec/blob/output/github-contribution-grid-snake-dark.svg" />
   
