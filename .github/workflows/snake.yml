@@ -1,0 +1,42 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    # Explicitly set permissions for the GITHUB_TOKEN for this job.
+    # 'contents: write' is crucial for creating and pushing to branches.
+    permissions:
+      contents: write
+      pages: write # Potentially useful if integrating with GitHub Pages directly
+      id-token: write # Required for OIDC, good practice for modern workflows
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Use actions/checkout@v4 to ensure the runner has a copy of the repo
+
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output # The action will create this branch if it doesn't exist
+          build_dir: dist
+          # If you want to overwrite the branch's history each time,
+          # you can use 'keep_history: false'. This is common for generated content.
+          keep_history: false # This will ensure the branch is essentially recreated with just the new content.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # The default GITHUB_TOKEN is usually sufficient with 'contents: write'
