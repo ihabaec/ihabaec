@@ -41,7 +41,7 @@ Motto: "Security is not a product, but a process"
   
   **⚡ Power Level: Over 9000! ⚡**
   
-  <img src="https://komarev.com/ghpvc/?username=ihabaitelcaid&label=🕵️‍♂️%20Profile%20Infiltrations&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ihabaec&label=🕵️‍♂️%20Profile%20Infiltrations&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
 </div>
 
 </td>
@@ -78,16 +78,16 @@ Motto: "Security is not a product, but a process"
 <div align="center">
   
   <!-- GitHub Stats with Custom Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ihabaitelcaid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ihabaec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihabaitelcaid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihabaec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" height="180"/>
 
 </div>
 
 <div align="center">
   
   <!-- Enhanced Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=ihabaitelcaid&theme=highcontrast&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakNum=6AD3F0&hide_border=true&stroke=FF6B6B" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ihabaec&theme=highcontrast&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakNum=6AD3F0&hide_border=true&stroke=FF6B6B" alt="GitHub Streak" />
   
 </div>
 
@@ -149,7 +149,7 @@ Motto: "Security is not a product, but a process"
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=ihabaitelcaid&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ihabaec&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
   
 </div>
 
@@ -159,7 +159,7 @@ Motto: "Security is not a product, but a process"
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihabaitelcaid&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihabaec&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
   
 </div>
 
@@ -170,7 +170,7 @@ Motto: "Security is not a product, but a process"
 <div align="center">
 
 ### 🐍 **Contribution Snake**
-<img src="https://github.com/ihabaitelcaid/ihabaitelcaid/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/ihabaec/ihabaec/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ### 💡 **Random Dev Quote**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -213,10 +213,10 @@ Fingerprint: [Your PGP Fingerprint Here]
 
 If you find my security tools and research valuable, consider supporting my work:
 
-<a href="https://www.buymeacoffee.com/ihabaitelcaid">
+<a href="https://www.buymeacoffee.com/ihabaec">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
-<a href="https://ko-fi.com/ihabaitelcaid">
+<a href="https://ko-fi.com/ihabaec">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
 
@@ -232,6 +232,6 @@ If you find my security tools and research valuable, consider supporting my work
   
   **⭐ Star my repositories if you find them useful! ⭐**
   
-  ![Visitor Count](https://profile-counter.glitch.me/ihabaitelcaid/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/ihabaec/count.svg)
   
 </div>
