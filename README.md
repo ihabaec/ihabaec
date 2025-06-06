@@ -6,7 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ihab%20Ait%20El%20Caid&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🛡️%20Cybersecurity%20Architect%20|%20🔥%20Ethical%20Hacker%20|%20☁️%20Cloud%20Security%20Specialist&descSize=18&descAlignY=55&animation=fadeIn"/>
   
   <!-- Typing Animation Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Penetration+Testing+Expert;🔐+Smart+Contract+Security+Auditor;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Penetration+Testing+Expert;🔐+Smart+Contract+Security+Auditor;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator" alt="Typing Animation" />
+  
+  <br><br>
 
 </div>
 
@@ -60,8 +62,8 @@ Motto: "Security is not a product, but a process"
 ### 🌐 **Web Technologies**
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,django,flask,html,css,tailwind&theme=dark" />
 
-### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins&theme=dark" />
+### ☁️ **Cloud & Security**
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,terraform,ansible&theme=dark" />
 
 ### 🗄️ **Databases & Systems**
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,elasticsearch,grafana,prometheus&theme=dark" />
@@ -111,7 +113,7 @@ Motto: "Security is not a product, but a process"
 ### ☁️ **Cloud Security**
 - AWS Security Architecture
 - Azure Active Directory
-- Container Security (Docker/K8s)
+- Cloud Infrastructure Protection
 - Infrastructure as Code Security
 
 </td>
@@ -135,11 +137,11 @@ Motto: "Security is not a product, but a process"
 
 | **Domain** | **Technologies** | **Expertise Level** |
 |------------|------------------|-------------------|
-| 🛡️ **Pentesting** | `Metasploit` `Burp Suite` `Nmap` `Wireshark` | ![90%](https://progress-bar.dev/90?color=ff6b6b) |
-| ☁️ **Cloud Security** | `AWS` `Azure` `Terraform` `CloudTrail` | ![85%](https://progress-bar.dev/85?color=4ecdc4) |
-| 🌐 **Web Security** | `OWASP` `SQLi` `XSS` `CSRF` | ![95%](https://progress-bar.dev/95?color=45b7d1) |
-| 🔐 **Cryptography** | `RSA` `AES` `Hashing` `PKI` | ![80%](https://progress-bar.dev/80?color=f7b731) |
-| 🐍 **Python Scripting** | `Automation` `Exploit Dev` `Forensics` | ![92%](https://progress-bar.dev/92?color=5f27cd) |
+| 🛡️ **Pentesting** | `Metasploit` `Burp Suite` `Nmap` `Wireshark` | ████████████████████░ 90% |
+| ☁️ **Cloud Security** | `AWS` `Azure` `Terraform` `CloudTrail` | ████████████████████░ 85% |
+| 🌐 **Web Security** | `OWASP` `SQLi` `XSS` `CSRF` | ████████████████████░ 95% |
+| 🔐 **Cryptography** | `RSA` `AES` `Hashing` `PKI` | ████████████████░░░░░ 80% |
+| 🐍 **Python Scripting** | `Automation` `Exploit Dev` `Forensics` | ████████████████████░ 92% |
 
 </div>
 
@@ -188,17 +190,41 @@ Motto: "Security is not a product, but a process"
 <a href="https://www.linkedin.com/in/ihab-ait-el-caid-654750285/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="mailto:ihabaec@gmail.com">
+<a href="mailto:ihabaitelcaid@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+<a href="https://twitter.com/ihabaitelcaid">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
 <a href="https://discord.gg/yourdiscord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" />
 </a>
 
+### 📧 **PGP Key Available for Secure Communications**
+```
+Fingerprint: [Your PGP Fingerprint Here]
+```
 
 </div>
 
+---
 
+## 💰 **Support My Cybersecurity Research**
+
+<div align="center">
+
+If you find my security tools and research valuable, consider supporting my work:
+
+<a href="https://www.buymeacoffee.com/ihabaec">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/ihabaec">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
   
