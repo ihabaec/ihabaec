@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Penetration+Testing+Expert;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator;🔐+Smart+Contract+Security+Auditor" alt="Typing Animation" />
   
 <br><br>
-<div align="center">
+    <div align="center">
 ### 🐍 **Contribution Snake**
 <img src="https://github.com/ihabaec/ihabaec/blob/output/github-contribution-grid-snake-dark.svg" />
   
