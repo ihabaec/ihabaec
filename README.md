@@ -50,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ihabaitelcaid&show_icons=true&theme=tokyonight&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ihabaitelcaid&theme=tokyonight&background=0,000000,441350&ring=c56a90&fire=ffeb95&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ihabaec&theme=tokyonight&background=0,000000,441350&ring=c56a90&fire=ffeb95&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
