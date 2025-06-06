@@ -7,6 +7,10 @@
   
   <!-- Typing Animation Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Penetration+Testing+Expert;🔐+Smart+Contract+Security+Auditor;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator" alt="Typing Animation" />
+  <div align="center">
+
+### 🐍 **Contribution Snake**
+<img src="https://github.com/ihabaec/ihabaec/blob/output/github-contribution-grid-snake-dark.svg" />
   
   <br><br>
 
@@ -162,34 +166,6 @@ Motto: "Security is not a product, but a process"
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihabaec&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
   
-</div>
-
----
-
-## 🎮 **Fun Zone**
-
-<div align="center">
-
-### 🐍 **Contribution Snake**
-<img src="https://github.com/ihabaec/ihabaec/blob/output/github-contribution-grid-snake-dark.svg" />
-
-### 💡 **Random Dev Quote**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-## 🤝 **Connect & Collaborate**
-
-<div align="center">
-
-### 🌐 **Let's Build Something Secure Together!**
-
-<a href="mailto:ihabaec@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-
 </div>
 
 ---
