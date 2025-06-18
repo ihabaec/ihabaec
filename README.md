@@ -99,7 +99,7 @@ Motto: "Security is not a product, but a process"
 
 ---
 
-## 🎯 **Current Missions**
+## 🎯 **Current Learning Goals**
 
 <table>
 <tr>
