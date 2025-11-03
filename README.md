@@ -1,12 +1,10 @@
-# 🌟 Welcome to the Cybersecurity Universe 🌟
-
 <div align="center">
   
   <!-- Animated Header with Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ihab%20Ait%20El%20Caid&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🛡️%20Cybersecurity%20Enthusiast%20|%20🔥%20Ethical%20Hacker%20|%20☁️%20Cloud%20Security%20Enthusiast&descSize=18&descAlignY=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ihab%20Ait%20El%20Caid&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🛡️%20Cybersecurity%20Engineer%20|%20🔥%20Ethical%20Hacker%20|%20☁️%20Cloud%20Security%20Enthusiast&descSize=18&descAlignY=55&animation=fadeIn"/>
   
   <!-- Typing Animation Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Penetration+Testing+Noob;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Security+Engineer+in+Training;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator" alt="Typing Animation" />
   
 <br><br>
     <div align="center">
@@ -28,16 +26,16 @@
 ### 🎯 **Mission Control**
 ```yaml
 Name: Ihab Ait El Caid
-Role: Cybersecurity Warrior
+Role: Security Engineer in Training
 Location: Marrakech, Morocco 🇲🇦
-Status: Actively Hunting Vulnerabilities
+Status: Always Hardening & Defending
 Motto: "Security is not a product, but a process"
 ```
 
 ### 🎓 **Current Objectives**
-- 🏫 **ENSA Marrakech** - Cybersecurity Engineering
-- 🎯 **Focus Areas**: Penetration Testing & Ethical Hacking
-- 🌐 **Specialization**: Web App & Cloud Security
+- 🏫 **ENSA Marrakech** - Cybersecurity Engineering  
+- 🎯 **Focus Areas**: Security Engineering & Cloud Security  
+- 🌐 **Specialization**: Web App & EDR Security  
 
 </td>
 <td width="50%">
@@ -53,6 +51,17 @@ Motto: "Security is not a product, but a process"
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 **Professional Focus**
+
+- 🧠 Designing and implementing secure architectures  
+- 🧩 Threat modeling, risk assessment, and hardening workflows  
+- ⚙️ Automating detection and response pipelines  
+- ☁️ Building secure cloud infrastructures (AWS / Azure)  
+- 🛡️ Security monitoring, SIEM tuning, and incident handling  
+- 🧬 Continuous improvement through red/blue collaboration  
 
 ---
 
@@ -106,28 +115,28 @@ Motto: "Security is not a product, but a process"
 <td width="33%">
 
 ### 🕵️ **Penetration Testing**
-- Advanced Web App Security
-- Network Infrastructure Testing
-- Social Engineering Assessments
-- Red Team Operations
+- Advanced Web App Security  
+- Network Infrastructure Testing  
+- Social Engineering Assessments  
+- Red Team Operations  
 
 </td>
 <td width="33%">
 
 ### ☁️ **Cloud Security**
-- AWS Security Architecture
-- Azure Active Directory
-- Cloud Infrastructure Protection
-- Infrastructure as Code Security
+- AWS Security Architecture  
+- Azure Active Directory  
+- Cloud Infrastructure Protection  
+- Infrastructure as Code Security  
 
 </td>
 <td width="33%">
 
 ### 🔐 **Blockchain Security**
-- Smart Contract Auditing
-- DeFi Protocol Security
-- Cryptocurrency Forensics
-- Web3 Vulnerability Research
+- Smart Contract Auditing  
+- DeFi Protocol Security  
+- Cryptocurrency Forensics  
+- Web3 Vulnerability Research  
 
 </td>
 </tr>
