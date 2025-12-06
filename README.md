@@ -59,7 +59,7 @@ Motto: "Security is not a product, but a process"
 <div align="center">
 
 ### 🔥 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,js,bash,solidity,c,cpp,java,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,solidity,c,cpp,java&theme=dark" />
 
 ### 🌐 **Web Technologies**
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,django,flask,html,css,tailwind&theme=dark" />
