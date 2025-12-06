@@ -54,17 +54,6 @@ Motto: "Security is not a product, but a process"
 
 ---
 
-## 💼 **Professional Focus**
-
-- 🧠 Designing and implementing secure architectures  
-- 🧩 Threat modeling, risk assessment, and hardening workflows  
-- ⚙️ Automating detection and response pipelines  
-- ☁️ Building secure cloud infrastructures (AWS / Azure)  
-- 🛡️ Security monitoring, SIEM tuning, and incident handling  
-- 🧬 Continuous improvement through red/blue collaboration  
-
----
-
 ## 🛡️ **Arsenal & Expertise**
 
 <div align="center">
