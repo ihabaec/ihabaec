@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header with Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ihab%20Ait%20El%20Caid&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🛡️%20Cybersecurity%20Engineer%20|%20🔥%20Ethical%20Hacker%20|%20☁️%20Cloud%20Security%20Enthusiast&descSize=18&descAlignY=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ihab%20Ait%20El%20Caid&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🛡️%20Cybersecurity%20Engineer%20&descSize=18&descAlignY=55&animation=fadeIn"/>
   
   <!-- Typing Animation Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Security+Engineer+in+Training;☁️+Cloud+Infrastructure+Guardian;🚀+Next-Gen+Security+Innovator" alt="Typing Animation" />
