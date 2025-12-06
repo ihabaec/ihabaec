@@ -105,9 +105,7 @@ Motto: "Security is not a product, but a process"
 
 ### 🕵️ **Penetration Testing**
 - Advanced Web App Security  
-- Network Infrastructure Testing  
-- Social Engineering Assessments  
-- Red Team Operations  
+- Network Infrastructure Testing    
 
 </td>
 <td width="33%">
@@ -119,35 +117,12 @@ Motto: "Security is not a product, but a process"
 - Infrastructure as Code Security  
 
 </td>
-<td width="33%">
-
-### 🔐 **Blockchain Security**
-- Smart Contract Auditing  
-- DeFi Protocol Security  
-- Cryptocurrency Forensics  
-- Web3 Vulnerability Research  
-
-</td>
 </tr>
 </table>
 
 ---
 
 ## 🌟 **Skill Matrix**
-
-<div align="center">
-
-| **Domain** | **Technologies** | **Expertise Level** |
-|------------|------------------|-------------------|
-| 🛡️ **Pentesting** | `Metasploit` `Burp Suite` `Nmap` `Wireshark` | ████████████████████░ 90% |
-| ☁️ **Cloud Security** | `AWS` `Azure` `Terraform` `CloudTrail` | ████████████████████░ 85% |
-| 🌐 **Web Security** | `OWASP` `SQLi` `XSS` `CSRF` | ████████████████████░ 95% |
-| 🔐 **Cryptography** | `RSA` `AES` `Hashing` `PKI` | ████████████████░░░░░ 80% |
-| 🐍 **Python Scripting** | `Automation` `Exploit Dev` `Forensics` | ████████████████████░ 92% |
-
-</div>
-
----
 
 ## 🏆 **Achievement Unlocked**
 
